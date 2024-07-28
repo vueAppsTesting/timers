@@ -20,8 +20,8 @@ html, body {
   }
   
   .center {
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
     margin: auto;
     display: inline-block;
     position: relative;
@@ -39,8 +39,8 @@ html, body {
 
   .text_block {
     display: block;
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
     position: absolute;
     left: 0;
     top: 0;
@@ -48,18 +48,18 @@ html, body {
 
   #parcentText {
     position: absolute;
-    top: 180px;
+    top: 130px;
     left: 0;
     width: 100%;
     text-align: center;
-    font-size: 40px;
+    font-size: 28px;
     line-height: 40px;
     text-shadow: 0 0 5px #fff;
     font-weight: bold;
   }
 
   .text_info {
-    font-size: 20px;
+    font-size: 17px;
     line-height: 25px;
     font-weight: bold;
     text-shadow: 0 0 5px #fff;
